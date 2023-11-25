@@ -1,0 +1,387 @@
+[
+    {
+        "weather_condition": "RAIN",
+        "count": 26648,
+        "year": 2019
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 2186,
+        "year": 2015
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 17217,
+        "year": 2020
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 887,
+        "year": 2022
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 19448,
+        "year": 2022
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 16783,
+        "year": 2022
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 657,
+        "year": 2020
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 6544,
+        "year": 2020
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 25735,
+        "year": 2014
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 15735,
+        "year": 2013
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 735,
+        "year": 2020
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 29005,
+        "year": 2015
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 12000,
+        "year": 2020
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 26280,
+        "year": 2015
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 41,
+        "year": 2015
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 8659,
+        "year": 2022
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 8659,
+        "year": 2013
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 37119,
+        "year": 2014
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 145,
+        "year": 2020
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 3200,
+        "year": 2014
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 32000,
+        "year": 2013
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 32,
+        "year": 2015
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 12940,
+        "year": 2020
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 24947,
+        "year": 2018
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 22007,
+        "year": 2013
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 42858,
+        "year": 2016
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 2516,
+        "year": 2016
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 8091,
+        "year": 2016
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 9162,
+        "year": 2018
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 19500,
+        "year": 2016
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 4234,
+        "year": 2017
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 11700,
+        "year": 2016
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 8670,
+        "year": 2018
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 17866,
+        "year": 2021
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 39851,
+        "year": 2018
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 18346,
+        "year": 2021
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 19200,
+        "year": 2017
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 23100,
+        "year": 2017
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 15481,
+        "year": 2017
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 6962,
+        "year": 2021
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 15000,
+        "year": 2021
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 21545,
+        "year": 2021
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 5450,
+        "year": 2013
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 20000,
+        "year": 2014
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 34500,
+        "year": 2015
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 13456,
+        "year": 2017
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 19000,
+        "year": 2016
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 25545,
+        "year": 2018
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 22000,
+        "year": 2021
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 44000,
+        "year": 2018
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 23377,
+        "year": 2019
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 9074,
+        "year": 2019
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 25840,
+        "year": 2019
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 460,
+        "year": 2019
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 345,
+        "year": 2019
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 20000,
+        "year": 2022
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 40000,
+        "year": 2021
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 40000,
+        "year": 2013
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 30000,
+        "year": 2014
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 14226,
+        "year": 2023
+    },
+    {
+        "weather_condition": "CLOUDY/OVERCAST",
+        "count": 5075,
+        "year": 2023
+    },
+    {
+        "weather_condition": "FREEZING RAIN/DRIZZLE",
+        "count": 53200,
+        "year": 2023
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 20100,
+        "year": 2022
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 3000,
+        "year": 2022
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 3000,
+        "year": 2014
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 13000,
+        "year": 2016
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 24000,
+        "year": 2013
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 17000,
+        "year": 2017
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 17000,
+        "year": 2018
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 7000,
+        "year": 2015
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 51,
+        "year": 2019
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 18200,
+        "year": 2017
+    },
+    {
+        "weather_condition": "SNOW",
+        "count": 3695,
+        "year": 2023
+    },
+    {
+        "weather_condition": "RAIN",
+        "count": 24000,
+        "year": 2014
+    },
+    {
+        "weather_condition": "SLEET/HAIL",
+        "count": 630,
+        "year": 2023
+    },
+    {
+        "weather_condition": "FOG/SMOKE/HAZE",
+        "count": 280,
+        "year": 2023
+    },
+    {
+        "weather_condition": "BLOWING SNOW",
+        "count": 114,
+        "year": 2023
+    }
+]

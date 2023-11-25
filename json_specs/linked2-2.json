@@ -1,0 +1,782 @@
+[
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 914,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 8232,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 9161,
+        "year": 2022
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 2993,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 628,
+        "year": 2022
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 362,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 2998,
+        "year": 2020
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 168,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 3236,
+        "year": 2020
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 184,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 578,
+        "year": 2020
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 229,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 3738,
+        "year": 2022
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "BLOWING SNOW",
+        "count": 54,
+        "year": 2020
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 52,
+        "year": 2015
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 120,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 12650,
+        "year": 2018
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 801,
+        "year": 2018
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 4911,
+        "year": 2018
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 68,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 4821,
+        "year": 2016
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 13560,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 410,
+        "year": 2018
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 4,
+        "year": 2020
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 25,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 5090,
+        "year": 2018
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 248,
+        "year": 2018
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 45,
+        "year": 2016
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 1539,
+        "year": 2016
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 8352,
+        "year": 2021
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 210,
+        "year": 2016
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 3788,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 11117,
+        "year": 2017
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 3189,
+        "year": 2017
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 563,
+        "year": 2017
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 112,
+        "year": 2017
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 2240,
+        "year": 2017
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 24,
+        "year": 2018
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 2000,
+        "year": 2018
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 3320,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 417,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 286,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 623,
+        "year": 2021
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 1200,
+        "year": 2018
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 260,
+        "year": 2021
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 156,
+        "year": 2021
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 269,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 40,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "BLOWING SNOW",
+        "count": 79,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 210,
+        "year": 2018
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 275,
+        "year": 2018
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 5171,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 4793,
+        "year": 2019
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 301,
+        "year": 2019
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 294,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 152,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 292,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 264,
+        "year": 2019
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 3000,
+        "year": 2020
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 1391,
+        "year": 2015
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 65,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 406,
+        "year": 2015
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 6021,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 621,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 11,
+        "year": 2019
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 18,
+        "year": 2021
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 11,
+        "year": 2021
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "BLOWING SNOW",
+        "count": 8,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 69,
+        "year": 2016
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 2163,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 6,
+        "year": 2021
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 1591,
+        "year": 2016
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 256,
+        "year": 2023
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 101,
+        "year": 2022
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 104,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 19,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "BLOWING SNOW",
+        "count": 24,
+        "year": 2019
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "BLOWING SNOW",
+        "count": 196,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 3,
+        "year": 2020
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 13,
+        "year": 2015
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 1200,
+        "year": 2021
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 34,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "BLOWING SNOW",
+        "count": 12,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 5,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 61,
+        "year": 2016
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 800,
+        "year": 2022
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 8,
+        "year": 2022
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 8,
+        "year": 2016
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 43,
+        "year": 2016
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 5,
+        "year": 2016
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 5,
+        "year": 2017
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 142,
+        "year": 2017
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 174,
+        "year": 2017
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 100,
+        "year": 2017
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 4,
+        "year": 2017
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 31,
+        "year": 2017
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 358,
+        "year": 2015
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SNOW",
+        "count": 1,
+        "year": 2015
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 15,
+        "year": 2015
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 1,
+        "year": 2015
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 11,
+        "year": 2017
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 19,
+        "year": 2015
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 5,
+        "year": 2015
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 28,
+        "year": 2015
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 1,
+        "year": 2015
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 186,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 2,
+        "year": 2016
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 6,
+        "year": 2016
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SNOW",
+        "count": 1,
+        "year": 2016
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SNOW",
+        "count": 3,
+        "year": 2017
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 15,
+        "year": 2018
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SNOW",
+        "count": 2000,
+        "year": 2018
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 2,
+        "year": 2014
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 300,
+        "year": 2018
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 2,
+        "year": 2019
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SNOW",
+        "count": 3,
+        "year": 2019
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 2,
+        "year": 2019
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 11,
+        "year": 2019
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "BLOWING SNOW",
+        "count": 1,
+        "year": 2019
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "BLOWING SNOW",
+        "count": 1,
+        "year": 2020
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 211,
+        "year": 2023
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 1569,
+        "year": 2023
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 74,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 12,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 16,
+        "year": 2023
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SNOW",
+        "count": 1,
+        "year": 2022
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 97,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 4,
+        "year": 2023
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "BLOWING SNOW",
+        "count": 62,
+        "year": 2023
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "BLOWING SNOW",
+        "count": 3,
+        "year": 2023
+    }
+]

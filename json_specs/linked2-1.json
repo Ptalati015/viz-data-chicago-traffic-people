@@ -1,0 +1,92 @@
+[
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "RAIN",
+        "count": 4990
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "RAIN",
+        "count": 5000
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 1500
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 1559
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 1493
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SNOW",
+        "count": 2670
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SNOW",
+        "count": 734
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "BLOWING SNOW",
+        "count": 4150
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 1150
+    },
+    {
+        "safety equipment": "SAFETY BELT USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 984
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FOG/SMOKE/HAZE",
+        "count": 75
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "FREEZING RAIN/DRIZZLE",
+        "count": 104
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "RAIN",
+        "count": 3000
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "CLOUDY/OVERCAST",
+        "count": 3000
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "SLEET/HAIL",
+        "count": 64
+    },
+    {
+        "safety equipment": "NONE PRESENT",
+        "weather condition": "BLOWING SNOW",
+        "count": 25
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SNOW",
+        "count": 1200
+    },
+    {
+        "safety equipment": "HELMET USED",
+        "weather condition": "SLEET/HAIL",
+        "count": 5000
+    }
+]

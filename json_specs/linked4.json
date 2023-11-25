@@ -1,0 +1,452 @@
+[
+    {
+        "AGE": 29.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 3
+    },
+    {
+        "AGE": 24.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 7
+    },
+    {
+        "AGE": 49.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 15.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 40.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 6
+    },
+    {
+        "AGE": 28.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 23.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 3
+    },
+    {
+        "AGE": 66.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 37.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 27.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 22.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 5
+    },
+    {
+        "AGE": 26.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 41.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 5
+    },
+    {
+        "AGE": 48.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 2
+    },
+    {
+        "AGE": 60.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 4
+    },
+    {
+        "AGE": 35.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 5
+    },
+    {
+        "AGE": 39.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 3
+    },
+    {
+        "AGE": 70.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 53.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 4
+    },
+    {
+        "AGE": 32.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 4
+    },
+    {
+        "AGE": 62.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 4
+    },
+    {
+        "AGE": 54.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 4
+    },
+    {
+        "AGE": 21.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 10
+    },
+    {
+        "AGE": 56.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 68.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 3
+    },
+    {
+        "AGE": 58.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 25.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 59.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 38.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 47.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 3
+    },
+    {
+        "AGE": 46.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 33.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 70.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 60.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 30.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 6
+    },
+    {
+        "AGE": 55.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 31.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 57.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 63.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 52.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 39.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 4
+    },
+    {
+        "AGE": 54.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 2
+    },
+    {
+        "AGE": 44.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 61.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 34.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 36.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 55.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 20.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 1
+    },
+    {
+        "AGE": 57.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 22.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 0.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 5
+    },
+    {
+        "AGE": 28.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 4
+    },
+    {
+        "AGE": 67.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 4
+    },
+    {
+        "AGE": 24.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 29.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 33.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 2
+    },
+    {
+        "AGE": 59.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 42.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 9
+    },
+    {
+        "AGE": 42.0,
+        "PHYSICAL_CONDITION": "Poor",
+        "count": 3
+    },
+    {
+        "AGE": 41.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 51.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 26.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 3
+    },
+    {
+        "AGE": 65.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 4
+    },
+    {
+        "AGE": 32.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 49.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 3
+    },
+    {
+        "AGE": 48.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 7
+    },
+    {
+        "AGE": 30.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 2
+    },
+    {
+        "AGE": 40.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 2
+    },
+    {
+        "AGE": 64.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 50.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 6
+    },
+    {
+        "AGE": 63.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 72.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 3
+    },
+    {
+        "AGE": 61.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 20.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 31.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 23.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 21.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 6
+    },
+    {
+        "AGE": 37.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 56.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 58.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 1
+    },
+    {
+        "AGE": 80.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 1
+    },
+    {
+        "AGE": 69.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 2
+    },
+    {
+        "AGE": 52.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 19.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 2
+    },
+    {
+        "AGE": 53.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 3
+    },
+    {
+        "AGE": 91.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    },
+    {
+        "AGE": 36.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 3
+    },
+    {
+        "AGE": 34.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 3
+    },
+    {
+        "AGE": 84.0,
+        "PHYSICAL_CONDITION": "Good",
+        "count": 1
+    },
+    {
+        "AGE": 43.0,
+        "PHYSICAL_CONDITION": "Fair",
+        "count": 1
+    }
+]

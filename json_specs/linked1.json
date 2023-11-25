@@ -1,0 +1,692 @@
+[
+    {
+        "Year": 2020,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 43
+    },
+    {
+        "Year": 2020,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 73
+    },
+    {
+        "Year": 2020,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 16
+    },
+    {
+        "Year": 2020,
+        "City": "CICERO",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2020,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 37
+    },
+    {
+        "Year": 2020,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 44
+    },
+    {
+        "Year": 2020,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 8
+    },
+    {
+        "Year": 2020,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 28
+    },
+    {
+        "Year": 2020,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 52
+    },
+    {
+        "Year": 2020,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 6
+    },
+    {
+        "Year": 2020,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 21
+    },
+    {
+        "Year": 2020,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 29
+    },
+    {
+        "Year": 2020,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 7
+    },
+    {
+        "Year": 2022,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 65
+    },
+    {
+        "Year": 2022,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 80
+    },
+    {
+        "Year": 2022,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 9
+    },
+    {
+        "Year": 2022,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 28
+    },
+    {
+        "Year": 2022,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 60
+    },
+    {
+        "Year": 2022,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 14
+    },
+    {
+        "Year": 2022,
+        "City": "CALUMET CITY",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2022,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 34
+    },
+    {
+        "Year": 2022,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 48
+    },
+    {
+        "Year": 2022,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 5
+    },
+    {
+        "Year": 2022,
+        "City": "BERWYN",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2022,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 26
+    },
+    {
+        "Year": 2022,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 70
+    },
+    {
+        "Year": 2022,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 8
+    },
+    {
+        "Year": 2015,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 1
+    },
+    {
+        "Year": 2015,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 1
+    },
+    {
+        "Year": 2015,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 3
+    },
+    {
+        "Year": 2015,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 3
+    },
+    {
+        "Year": 2015,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 1
+    },
+    {
+        "Year": 2015,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 3
+    },
+    {
+        "Year": 2018,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 53
+    },
+    {
+        "Year": 2018,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 89
+    },
+    {
+        "Year": 2018,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 17
+    },
+    {
+        "Year": 2018,
+        "City": "CICERO",
+        "Injury Classification": "FATAL",
+        "Count": 3
+    },
+    {
+        "Year": 2018,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 42
+    },
+    {
+        "Year": 2018,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 54
+    },
+    {
+        "Year": 2018,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 6
+    },
+    {
+        "Year": 2018,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 31
+    },
+    {
+        "Year": 2018,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 61
+    },
+    {
+        "Year": 2018,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 11
+    },
+    {
+        "Year": 2018,
+        "City": "BERWYN",
+        "Injury Classification": "FATAL",
+        "Count": 3
+    },
+    {
+        "Year": 2018,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 28
+    },
+    {
+        "Year": 2018,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 46
+    },
+    {
+        "Year": 2018,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 7
+    },
+    {
+        "Year": 2016,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 18
+    },
+    {
+        "Year": 2016,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 9
+    },
+    {
+        "Year": 2016,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 2
+    },
+    {
+        "Year": 2016,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 19
+    },
+    {
+        "Year": 2016,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 8
+    },
+    {
+        "Year": 2016,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 1
+    },
+    {
+        "Year": 2016,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 6
+    },
+    {
+        "Year": 2016,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 5
+    },
+    {
+        "Year": 2016,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 4
+    },
+    {
+        "Year": 2016,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 9
+    },
+    {
+        "Year": 2016,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 4
+    },
+    {
+        "Year": 2016,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 3
+    },
+    {
+        "Year": 2017,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 22
+    },
+    {
+        "Year": 2017,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 62
+    },
+    {
+        "Year": 2017,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 16
+    },
+    {
+        "Year": 2017,
+        "City": "CICERO",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2017,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 22
+    },
+    {
+        "Year": 2017,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 32
+    },
+    {
+        "Year": 2017,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 8
+    },
+    {
+        "Year": 2017,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 20
+    },
+    {
+        "Year": 2017,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 23
+    },
+    {
+        "Year": 2017,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 5
+    },
+    {
+        "Year": 2017,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 13
+    },
+    {
+        "Year": 2017,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 30
+    },
+    {
+        "Year": 2017,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 5
+    },
+    {
+        "Year": 2019,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 59
+    },
+    {
+        "Year": 2019,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 91
+    },
+    {
+        "Year": 2019,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 29
+    },
+    {
+        "Year": 2019,
+        "City": "CICERO",
+        "Injury Classification": "FATAL",
+        "Count": 3
+    },
+    {
+        "Year": 2019,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 40
+    },
+    {
+        "Year": 2019,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 53
+    },
+    {
+        "Year": 2019,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 9
+    },
+    {
+        "Year": 2019,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 27
+    },
+    {
+        "Year": 2019,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 58
+    },
+    {
+        "Year": 2019,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 8
+    },
+    {
+        "Year": 2019,
+        "City": "BERWYN",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2019,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 29
+    },
+    {
+        "Year": 2019,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 54
+    },
+    {
+        "Year": 2019,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 9
+    },
+    {
+        "Year": 2021,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 63
+    },
+    {
+        "Year": 2021,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 110
+    },
+    {
+        "Year": 2021,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 16
+    },
+    {
+        "Year": 2021,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 26
+    },
+    {
+        "Year": 2021,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 53
+    },
+    {
+        "Year": 2021,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 10
+    },
+    {
+        "Year": 2021,
+        "City": "CALUMET CITY",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2021,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 30
+    },
+    {
+        "Year": 2021,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 40
+    },
+    {
+        "Year": 2021,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 15
+    },
+    {
+        "Year": 2021,
+        "City": "BERWYN",
+        "Injury Classification": "FATAL",
+        "Count": 3
+    },
+    {
+        "Year": 2021,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 25
+    },
+    {
+        "Year": 2021,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 47
+    },
+    {
+        "Year": 2021,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 8
+    },
+    {
+        "Year": 2021,
+        "City": "EVANSTON",
+        "Injury Classification": "FATAL",
+        "Count": 2
+    },
+    {
+        "Year": 2023,
+        "City": "CICERO",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 28
+    },
+    {
+        "Year": 2023,
+        "City": "CICERO",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 49
+    },
+    {
+        "Year": 2023,
+        "City": "CICERO",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 6
+    },
+    {
+        "Year": 2023,
+        "City": "CALUMET CITY",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 22
+    },
+    {
+        "Year": 2023,
+        "City": "CALUMET CITY",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 39
+    },
+    {
+        "Year": 2023,
+        "City": "CALUMET CITY",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 11
+    },
+    {
+        "Year": 2023,
+        "City": "CALUMET CITY",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2023,
+        "City": "BERWYN",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 16
+    },
+    {
+        "Year": 2023,
+        "City": "BERWYN",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 35
+    },
+    {
+        "Year": 2023,
+        "City": "BERWYN",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 3
+    },
+    {
+        "Year": 2023,
+        "City": "BERWYN",
+        "Injury Classification": "FATAL",
+        "Count": 1
+    },
+    {
+        "Year": 2023,
+        "City": "EVANSTON",
+        "Injury Classification": "REPORTED, NOT EVIDENT",
+        "Count": 14
+    },
+    {
+        "Year": 2023,
+        "City": "EVANSTON",
+        "Injury Classification": "NONINCAPACITATING INJURY",
+        "Count": 29
+    },
+    {
+        "Year": 2023,
+        "City": "EVANSTON",
+        "Injury Classification": "INCAPACITATING INJURY",
+        "Count": 4
+    }
+]

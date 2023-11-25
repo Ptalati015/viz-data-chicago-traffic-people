@@ -1,0 +1,51 @@
+[
+    {
+        "bin": "0-9 years",
+        "male_count": 23720,
+        "female_count": 21425,
+        "count": 45145
+    },
+    {
+        "bin": "10-19 years",
+        
+        "male_count": 42124,
+        "female_count": 37412,
+        "count": 79536
+    },
+    {
+        "bin": "20-29 years",
+        "male_count": 163091,
+        "female_count": 139994,
+        "count": 303085
+    },
+    {
+        "bin": "30-39 years",
+        "male_count": 145970,
+        "female_count": 109312,
+        "count": 255282
+    },
+    {
+        "bin": "40-49 years",
+        "male_count": 113714,
+        "female_count": 76968,
+        "count": 190682
+    },
+    {
+        "bin": "50-59 years",
+        "male_count": 98283,
+        "female_count": 59891,
+        "count": 158174
+    },
+    {
+        "bin": "60-69 years",
+        "male_count": 60955,
+        "female_count": 37165,
+        "count": 98120
+    },
+    {
+        "bin": "70+ years",
+        "male_count": 21484,
+        "female_count": 15459,
+        "count": 36943
+    }
+]
