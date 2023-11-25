@@ -23,6 +23,9 @@ const s = {
             "type": "quantitative"
         }
     },
+
+    title: "Visualizing Weather Conditions by Year"
+    
    
 };
 
@@ -47,6 +50,8 @@ const spec1 = {
         },
        
     },
+    title: "Visualizing Weather Conditions by Year"
+
    
 };
 
@@ -78,13 +83,18 @@ function filterData() {
       s.transform = [{
         "filter": {"field": "weather_condition", "equal": val}  
       }];
-      
+      s.title = `Visualizing ${val} by Year`
+      spec1.title =`Visualizing ${val} by Year`
       spec1.transform = [{
         "filter": {"field": "weather_condition", "equal": val}
       }];
     } else {
       delete s.transform; 
       delete spec1.transform;
+      s.title =  "Visualizing Weather Conditions by Year";
+      spec1.title =  "Visualizing Weather Conditions by Year"
+
+
     }
     
     vegaEmbed("#vis", s)
