@@ -7,12 +7,12 @@ const barChartSpec = {
     height: 400,
     mark: 'bar',
     encoding: {
-        x: {
+        y: {
             field: 'City',
             type: 'nominal',
-            sort: '-y',
+            sort: '-x', // Sort by the original y-axis (now x-axis after swapping)
         },
-        y: {
+        x: {
             field: 'Count',
             type: 'quantitative',
         },
@@ -38,6 +38,9 @@ const lineChartSpec = {
         y: {
             field: 'Count',
             type: 'quantitative',
+             axis: {
+                labelAngle: 0, // Rotate y-axis labels to horizontal
+            },
         },
         color: {
             field: 'Injury Classification',
