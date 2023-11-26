@@ -33,7 +33,7 @@ const lineChartSpec = {
     encoding: {
         x: {
             field: 'Year',
-            type: 'quantitative',
+            type: 'ordinal',
         },
         y: {
             field: 'Count',
@@ -160,7 +160,7 @@ function calculateAverageData(data, classification) {
         }, 0);
         const countAverage = countSum / data.filter(dataPoint => dataPoint.Year === year).length;
         return {
-            Year: year,
+            Year: Math.floor(year),
             Count: countAverage,
             'Injury Classification': classification, // Add the classification
         };
